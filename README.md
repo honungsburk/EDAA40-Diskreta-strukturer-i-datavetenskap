@@ -2,3 +2,5 @@
 Cheat sheet för tentan i diskreta strukturer
 
 Kan innehålla vissa småfel så används på egen risk. 
+
+Lycka till!
